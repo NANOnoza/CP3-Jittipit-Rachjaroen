@@ -1,0 +1,6 @@
+a = int(input("จงใส่ตัวเลข--> "))
+b = int(input("จงใส่ตัวเลข--> "))
+print(a,"+",b,"=",a+b)
+print(a,"-",b,"=",a-b)
+print(a,"x",b,"=",a*b)
+print(a,"/",b,"=",a/b)
